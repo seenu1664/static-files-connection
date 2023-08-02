@@ -1,0 +1,21 @@
+body
+{
+    background-image: pink;
+}
+h1
+{
+    font-size: 120px;
+    color: blue;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color: black;
+
+}
+img
+{
+    position: relative;
+    margin-bottom: 500px;
+    background-image: -webkit-gradient();
+
+}
